@@ -1,3 +1,18 @@
+## [3.0.0](https://github.com/trallnag/testbench-semantic-release/compare/v2.0.0...v3.0.0) (2022-06-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* test test test
+test test test
+
+test test test
+test test test
+
+### Features
+
+* anudda breaking change ([0ada6df](https://github.com/trallnag/testbench-semantic-release/commit/0ada6df00dde25cf37f79036cd48d776b9d2c61a))
+
 ## [2.0.0](https://github.com/trallnag/testbench-semantic-release/compare/v1.0.0...v2.0.0) (2022-06-26)
 
 
