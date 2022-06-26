@@ -57,6 +57,12 @@
       {
         "assets": ["CHANGELOG.md"]
       }
+    ],
+    [
+      "@semantic-release/github",
+      {
+        "addReleases": false
+      }
     ]
   ]
 }
