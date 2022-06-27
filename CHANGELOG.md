@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.1.1](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.0...v4.1.1) (2022-06-27)
+
+
+### Bug Fixes
+
+* correct non-existing issue 1 ([e7a09aa](https://github.com/trallnag/testbench-semantic-release/commit/e7a09aa7388ed534489f73a151006e94c1b995d3))
+* correct non-existing issue 2 ([2463cc6](https://github.com/trallnag/testbench-semantic-release/commit/2463cc648179573bc6266765cb2f489fbb3d93d5))
+
 ## [4.1.0](https://github.com/trallnag/testbench-semantic-release/compare/v4.0.0...v4.1.0) (2022-06-27)
 
 
