@@ -1,3 +1,12 @@
+# Changelog
+
+## [4.1.0](https://github.com/trallnag/testbench-semantic-release/compare/v4.0.0...v4.1.0) (2022-06-27)
+
+
+### Features
+
+* test feature ([edec6b1](https://github.com/trallnag/testbench-semantic-release/commit/edec6b17b07bd8254a67c7b9ddce04e4deedf3ae))
+
 ## [4.0.0](https://github.com/trallnag/testbench-semantic-release/compare/v3.0.0...v4.0.0) (2022-06-26)
 
 
