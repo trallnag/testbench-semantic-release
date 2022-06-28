@@ -17,6 +17,8 @@ something like Release Please instead.
 Not directly possible with Semantic Release. But Semantic Release uses packages
 from conventional-changelog under the hood and these include a CLI.
 
+Place a `config.json` with content similar to this here:
+
 <!-- prettier-ignore -->
 ```json
 {
@@ -24,24 +26,14 @@ from conventional-changelog under the hood and these include a CLI.
     "preset": {
       "name": "conventionalcommits",
       "types": [
-        { "type": "feat",      "section": "Features",     "hidden": false },
-        { "type": "fix",       "section": "Bug Fixes",    "hidden": false },
-        { "type": "perf",      "section": "Performance",  "hidden": false },
-        { "type": "refactor",  "section": "Refactor",     "hidden": false },
-        { "type": "test",      "section": "Tests",        "hidden": false },
-        { "type": "revert",    "section": "Revert",       "hidden": false },
-        { "type": "docs",      "section": "Docs",         "hidden": true },
-        { "type": "style",     "section": "Styles",       "hidden": true },
-        { "type": "chore",     "section": "Chores",       "hidden": true },
-        { "type": "build",     "section": "Build",        "hidden": true },
-        { "type": "ci",        "section": "CI/CD",        "hidden": true }
+        { "type": "add", "section": "types", "hidden": false },
       ]
     }
   }
 }
 ```
 
-Can be generated like this:
+Ensure that `conventional-changelog-cli` is installed. Execute the following:
 
 ```shell
 conventional-changelog -r 0 --config config.json
