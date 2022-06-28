@@ -19,15 +19,12 @@ from conventional-changelog under the hood and these include a CLI.
 
 Place a `config.json` with content similar to this here:
 
-<!-- prettier-ignore -->
 ```json
 {
   "options": {
     "preset": {
       "name": "conventionalcommits",
-      "types": [
-        { "type": "add", "section": "types", "hidden": false },
-      ]
+      "types": [{ "type": "add", "section": "types", "hidden": false }]
     }
   }
 }

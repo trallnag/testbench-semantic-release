@@ -12,7 +12,7 @@ repos:
     hooks:
       - id: prettier
         args: [--prose-wrap, always]
-        types: [markdown, yaml]
+        types_or: [markdown, yaml]
 
 exclude: |
   (?x)(
