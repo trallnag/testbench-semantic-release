@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.3](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.2...v4.1.3) (2022-06-29)
+
+
+### 🚀 Performance
+
+* Improve compilation speed with flags ([019ec95](https://github.com/trallnag/testbench-semantic-release/commit/019ec950bd4ad0319d1681a023990c0330e324b1))
+
 ## [4.1.2](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.1...v4.1.2) (2022-06-29)
 
 
