@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.4](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.3...v4.1.4) (2022-06-29)
+
+
+### 🏗️ Refactor
+
+* Switch to async implementation ([08a354a](https://github.com/trallnag/testbench-semantic-release/commit/08a354ab97c100a7ece647517ae69d94513f0a3d))
+
 ## [4.1.3](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.2...v4.1.3) (2022-06-29)
 
 
