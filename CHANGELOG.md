@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.2](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.1...v4.1.2) (2022-06-29)
+
+
+### Docs
+
+* **readme:** Add info regarding project ([f3f5c3c](https://github.com/trallnag/testbench-semantic-release/commit/f3f5c3cd180adf5f97ef1af87f6f337cb0cda951))
+
 ## [4.1.1](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.0...v4.1.1) (2022-06-27)
 
 
