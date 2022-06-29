@@ -3,14 +3,14 @@
 ## [4.1.2](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.1...v4.1.2) (2022-06-29)
 
 
-### Docs
+### 📚 Docs
 
 * **readme:** Add info regarding project ([f3f5c3c](https://github.com/trallnag/testbench-semantic-release/commit/f3f5c3cd180adf5f97ef1af87f6f337cb0cda951))
 
 ## [4.1.1](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.0...v4.1.1) (2022-06-27)
 
 
-### Bug Fixes
+### 🐛 Bug Fixes
 
 * correct non-existing issue 1 ([e7a09aa](https://github.com/trallnag/testbench-semantic-release/commit/e7a09aa7388ed534489f73a151006e94c1b995d3))
 * correct non-existing issue 2 ([2463cc6](https://github.com/trallnag/testbench-semantic-release/commit/2463cc648179573bc6266765cb2f489fbb3d93d5))
@@ -18,7 +18,7 @@
 ## [4.1.0](https://github.com/trallnag/testbench-semantic-release/compare/v4.0.0...v4.1.0) (2022-06-27)
 
 
-### Features
+### ✨ Features
 
 * test feature ([edec6b1](https://github.com/trallnag/testbench-semantic-release/commit/edec6b17b07bd8254a67c7b9ddce04e4deedf3ae))
 
@@ -31,7 +31,7 @@
 fefef fefef
 fefef fefef
 
-### Features
+### ✨ Features
 
 * anudda one ([166bf0a](https://github.com/trallnag/testbench-semantic-release/commit/166bf0a9422e464babb77209a55663cd61ea7f7a))
 
@@ -46,7 +46,7 @@ test test test
 test test test
 test test test
 
-### Features
+### ✨ Features
 
 * anudda breaking change ([0ada6df](https://github.com/trallnag/testbench-semantic-release/commit/0ada6df00dde25cf37f79036cd48d776b9d2c61a))
 
@@ -59,13 +59,13 @@ test test test
 Do this do this do this doergrgr. grgrgr.
 frgrgre. greg err e. gregr r.
 
-### Features
+### ✨ Features
 
 * switch to something breaking ([21fa363](https://github.com/trallnag/testbench-semantic-release/commit/21fa363ffcb212a481fe9cbc4f52504925b1160c))
 
-## 1.0.0 (2022-06-26)
+## [1.0.0](https://github.com/trallnag/testbench-semantic-release/compare/f4bb6e9d51a6f50b8d35ae6e4fc98d59f41c0a2f...v1.0.0) (2022-06-26)
 
 
-### Features
+### ✨ Features
 
 * initial release ([f4bb6e9](https://github.com/trallnag/testbench-semantic-release/commit/f4bb6e9d51a6f50b8d35ae6e4fc98d59f41c0a2f))

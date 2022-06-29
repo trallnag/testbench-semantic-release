@@ -24,7 +24,7 @@ Place a `config.json` with content similar to this here:
   "options": {
     "preset": {
       "name": "conventionalcommits",
-      "types": [{ "type": "add", "section": "types", "hidden": false }]
+      "types": "add list of json objects here"
     }
   }
 }
