@@ -11,8 +11,8 @@ repos:
     rev: v2.7.1
     hooks:
       - id: prettier
-        args: [--prose-wrap, always]
-        types_or: [markdown, yaml]
+        args: [--prose-wrap, always, --single-quote]
+        types_or: [markdown, yaml, json]
 
 exclude: |
   (?x)(
