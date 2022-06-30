@@ -1,5 +1,38 @@
 # Changelog
 
+## [4.2.0](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.4...v4.2.0) (2022-06-30)
+
+
+### Features
+
+* Add some feature ([fed132f](https://github.com/trallnag/testbench-semantic-release/commit/fed132faf5281d0806e16ec29ed9ef231a136499))
+
+
+### Bug Fixes
+
+* Fix a bug ([c9bde69](https://github.com/trallnag/testbench-semantic-release/commit/c9bde69c6ee1c87185c6562a1dda5ff0506e4f5c))
+
+
+### Reverts
+
+* Revert something ([643cc57](https://github.com/trallnag/testbench-semantic-release/commit/643cc57a172d18813af85f2765a5cc3753369e47))
+
+
+### Performance
+
+* Improve performance ([6f5af67](https://github.com/trallnag/testbench-semantic-release/commit/6f5af6730bb073a502b9fc8f042a1fab2f1bf54b))
+
+
+### Tests
+
+* Improve some tests ([f67173e](https://github.com/trallnag/testbench-semantic-release/commit/f67173ec91f76a77c45e751c9e9496d99fed1c4c))
+
+
+### Docs
+
+* **readme:** Update readme ([e3dcc6d](https://github.com/trallnag/testbench-semantic-release/commit/e3dcc6d8f6e843411a9fb885aab182af5f9a28d2))
+* Update docs ([2cc3472](https://github.com/trallnag/testbench-semantic-release/commit/2cc3472524798ca7953b5eb18377ee07643a32bc))
+
 ## [4.1.4](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.3...v4.1.4) (2022-06-29)
 
 
