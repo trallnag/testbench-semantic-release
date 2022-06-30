@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 module.exports = {
   extends: ['@commitlint/config-conventional'],
@@ -10,4 +10,4 @@ module.exports = {
       ['sentence-case', 'start-case', 'pascal-case', 'upper-case'],
     ],
   },
-};
+}

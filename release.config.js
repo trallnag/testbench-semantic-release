@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 module.exports = {
   branches: [
@@ -78,4 +78,4 @@ module.exports = {
     ],
     '@semantic-release/github',
   ],
-};
+}
