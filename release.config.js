@@ -52,7 +52,7 @@ module.exports = {
             { type: 'perf', section: 'Performance', hidden: false },
             { type: 'refactor', section: 'Refactor', hidden: false },
             { type: 'test', section: 'Tests', hidden: false },
-            { type: 'docs', section: 'Documentation', hidden: false },
+            { type: 'docs', section: 'Docs', hidden: false },
             { type: 'build', section: 'Build', hidden: false },
             { type: 'ci', section: 'CI/CD', hidden: false },
             { type: 'style', section: 'Styles', hidden: false },
