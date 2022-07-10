@@ -28,7 +28,7 @@
 * Improve some tests ([f67173e](https://github.com/trallnag/testbench-semantic-release/commit/f67173ec91f76a77c45e751c9e9496d99fed1c4c))
 
 
-### Docs
+### Documentation
 
 * **readme:** Update readme ([e3dcc6d](https://github.com/trallnag/testbench-semantic-release/commit/e3dcc6d8f6e843411a9fb885aab182af5f9a28d2))
 * Update docs ([2cc3472](https://github.com/trallnag/testbench-semantic-release/commit/2cc3472524798ca7953b5eb18377ee07643a32bc))
@@ -43,6 +43,11 @@
 ## [4.1.3](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.2...v4.1.3) (2022-06-29)
 
 
+### Styles
+
+* Add Unicode symbols to changelog ([b044197](https://github.com/trallnag/testbench-semantic-release/commit/b04419786337672736a040d5e4d8e904e12284cd))
+
+
 ### Performance
 
 * Improve compilation speed with flags ([019ec95](https://github.com/trallnag/testbench-semantic-release/commit/019ec950bd4ad0319d1681a023990c0330e324b1))
@@ -50,7 +55,12 @@
 ## [4.1.2](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.1...v4.1.2) (2022-06-29)
 
 
-### Docs
+### CI/CD
+
+* **pre-commit:** Correct usage of file filter ([699fffc](https://github.com/trallnag/testbench-semantic-release/commit/699fffc219b47a65b78432e0aeff78231aaf0bb6))
+
+
+### Documentation
 
 * **readme:** Add info regarding project ([f3f5c3c](https://github.com/trallnag/testbench-semantic-release/commit/f3f5c3cd180adf5f97ef1af87f6f337cb0cda951))
 
@@ -68,6 +78,11 @@
 ### Features
 
 * test feature ([edec6b1](https://github.com/trallnag/testbench-semantic-release/commit/edec6b17b07bd8254a67c7b9ddce04e4deedf3ae))
+
+
+### CI/CD
+
+* add changelogTitle to semantic-release config ([322ff6a](https://github.com/trallnag/testbench-semantic-release/commit/322ff6a2ce6edffce914a52aa9cb4ba63e3b6264))
 
 ## [4.0.0](https://github.com/trallnag/testbench-semantic-release/compare/v3.0.0...v4.0.0) (2022-06-26)
 
@@ -97,6 +112,11 @@ test test test
 
 * anudda breaking change ([0ada6df](https://github.com/trallnag/testbench-semantic-release/commit/0ada6df00dde25cf37f79036cd48d776b9d2c61a))
 
+
+### CI/CD
+
+* modify relaserc.json ([bbaa4a0](https://github.com/trallnag/testbench-semantic-release/commit/bbaa4a07b17cc46f4ea35789b734c0f44e2f93ee))
+
 ## [2.0.0](https://github.com/trallnag/testbench-semantic-release/compare/v1.0.0...v2.0.0) (2022-06-26)
 
 
@@ -110,9 +130,19 @@ frgrgre. greg err e. gregr r.
 
 * switch to something breaking ([21fa363](https://github.com/trallnag/testbench-semantic-release/commit/21fa363ffcb212a481fe9cbc4f52504925b1160c))
 
+
+### CI/CD
+
+* modify relaserc.json ([e6708ec](https://github.com/trallnag/testbench-semantic-release/commit/e6708ec30dfa6db14db67b30133526f8bf889302))
+
 ## [1.0.0](https://github.com/trallnag/testbench-semantic-release/compare/f4bb6e9d51a6f50b8d35ae6e4fc98d59f41c0a2f...v1.0.0) (2022-06-26)
 
 
 ### Features
 
 * initial release ([f4bb6e9](https://github.com/trallnag/testbench-semantic-release/commit/f4bb6e9d51a6f50b8d35ae6e4fc98d59f41c0a2f))
+
+
+### CI/CD
+
+* add missing action checkout ([6f06e59](https://github.com/trallnag/testbench-semantic-release/commit/6f06e5974be8362a951eed3b4b649fbf35459826))
