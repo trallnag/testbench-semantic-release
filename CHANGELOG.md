@@ -52,7 +52,7 @@
 * **semantic-release:** Adjust release-notes-generator type mapping ([23fd756](https://github.com/trallnag/testbench-semantic-release/commit/23fd75603436c641a6129ab175da4d5d72a5faf2))
 
 
-### Documentation
+### Docs
 
 * **changelog:** Update changelog to reflect semantic-release config change ([1d644e9](https://github.com/trallnag/testbench-semantic-release/commit/1d644e9963476ae73ae194ccfcc6a6bfa96c9d69))
 * Dummy ([4619f1a](https://github.com/trallnag/testbench-semantic-release/commit/4619f1a2f4dc306c781c53957f1442e7172dd83c))
@@ -85,7 +85,7 @@
 * Improve some tests ([f67173e](https://github.com/trallnag/testbench-semantic-release/commit/f67173ec91f76a77c45e751c9e9496d99fed1c4c))
 
 
-### Documentation
+### Docs
 
 * **readme:** Update readme ([e3dcc6d](https://github.com/trallnag/testbench-semantic-release/commit/e3dcc6d8f6e843411a9fb885aab182af5f9a28d2))
 * Update docs ([2cc3472](https://github.com/trallnag/testbench-semantic-release/commit/2cc3472524798ca7953b5eb18377ee07643a32bc))
@@ -117,7 +117,7 @@
 * **pre-commit:** Correct usage of file filter ([699fffc](https://github.com/trallnag/testbench-semantic-release/commit/699fffc219b47a65b78432e0aeff78231aaf0bb6))
 
 
-### Documentation
+### Docs
 
 * **readme:** Add info regarding project ([f3f5c3c](https://github.com/trallnag/testbench-semantic-release/commit/f3f5c3cd180adf5f97ef1af87f6f337cb0cda951))
 
