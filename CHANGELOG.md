@@ -1,5 +1,62 @@
 # Changelog
 
+## [4.3.0](https://github.com/trallnag/testbench-semantic-release/compare/v4.2.0...v4.3.0) (2022-07-10)
+
+
+### Features
+
+* Dummy ([728dada](https://github.com/trallnag/testbench-semantic-release/commit/728dada475102186ff82382b49ef966d4487d5f7))
+
+
+### Bug Fixes
+
+* Dummy ([5f82bea](https://github.com/trallnag/testbench-semantic-release/commit/5f82bea7eb2e6d14758d48055432323743ad55dc))
+
+
+### Reverts
+
+* Dummy ([91234b2](https://github.com/trallnag/testbench-semantic-release/commit/91234b2b4969e574156ce7db3f04d7d65120d630))
+
+
+### Performance
+
+* Dummy ([cf14cc9](https://github.com/trallnag/testbench-semantic-release/commit/cf14cc908381ebf4407e5caf4552638adf525390))
+
+
+### Refactor
+
+* Dummy ([8638fff](https://github.com/trallnag/testbench-semantic-release/commit/8638ffff4c104efe67b45822c0c60f8dbbd2a898))
+
+
+### Tests
+
+* Dummy ([56589a1](https://github.com/trallnag/testbench-semantic-release/commit/56589a1b1bc57ce80999cf58a9e51bf9ada9155d))
+
+
+### Build
+
+* Dummy ([a9c3c12](https://github.com/trallnag/testbench-semantic-release/commit/a9c3c12e05b17431123d8748f532ab2f7392a274))
+* Dummy ([27dab31](https://github.com/trallnag/testbench-semantic-release/commit/27dab314fc67c45dcc4672b334035a23964b98ad))
+
+
+### Styles
+
+* Dummy ([e8d0437](https://github.com/trallnag/testbench-semantic-release/commit/e8d043700fff1988c40da386ed9c8170ad31a84f))
+* Dummy ([16c0a25](https://github.com/trallnag/testbench-semantic-release/commit/16c0a2500c1b0d846ee1796ecba87ab5887fce78))
+
+
+### CI/CD
+
+* Dummy ([d130d49](https://github.com/trallnag/testbench-semantic-release/commit/d130d49ac47d35c47188188cb81a4d7bb101cba9))
+* Dummy ([88b727b](https://github.com/trallnag/testbench-semantic-release/commit/88b727bea4ddc55de195444395002c67f7e95276))
+* **semantic-release:** Adjust release-notes-generator type mapping ([23fd756](https://github.com/trallnag/testbench-semantic-release/commit/23fd75603436c641a6129ab175da4d5d72a5faf2))
+
+
+### Documentation
+
+* **changelog:** Update changelog to reflect semantic-release config change ([1d644e9](https://github.com/trallnag/testbench-semantic-release/commit/1d644e9963476ae73ae194ccfcc6a6bfa96c9d69))
+* Dummy ([4619f1a](https://github.com/trallnag/testbench-semantic-release/commit/4619f1a2f4dc306c781c53957f1442e7172dd83c))
+
 ## [4.2.0](https://github.com/trallnag/testbench-semantic-release/compare/v4.1.4...v4.2.0) (2022-06-30)
 
 
