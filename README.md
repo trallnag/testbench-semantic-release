@@ -27,6 +27,8 @@ Use either [`assets/config.js`](assets/config.js) or
 conventional-changelog -r 0 --config <config-file>
 ```
 
+## Advantages
+
 ### References
 
 - <https://github.com/conventional-changelog/conventional-changelog/blob/master/packages/conventional-changelog-conventionalcommits/README.md>
